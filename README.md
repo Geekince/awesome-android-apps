@@ -16,3 +16,4 @@
 
 https://github.com/Trinea/android-open-project
 https://github.com/SenhLinsh/Android-Hot-Libraries
+https://github.com/androiddevnotes/awesome-android-kotlin-apps
