@@ -13,6 +13,10 @@
 - https://github.com/LawnchairLauncher/lawnchair
 - https://github.com/otakuhqz/Omega
 
+https://github.com/tachiyomiorg/tachiyomi
+https://github.com/renard314/textfairy
+https://github.com/UnevenSoftware/LeafPic
+https://github.com/duckduckgo/Android
 
 https://github.com/Trinea/android-open-project
 https://github.com/SenhLinsh/Android-Hot-Libraries
